@@ -1,0 +1,13 @@
+{
+  "id": "conference_01jxe6cs2ffq8vtqb5f5fh0q2d",
+  "name": "Commit Your Code",
+  "url": "https://www.commityourcode.com/",
+  "startDate": "10/25/2025",
+  "endDate": "10/26/2025",
+  "location": "Plano, TX",
+  "description": "A Texas web development conference where 100% of all ticket sales go to charity.",
+  "cfpStartDate": "11/10/2024",
+  "cfpEndDate": "03/10/2025",
+  "cfpUrl": "https://commityourcode.com/submit",
+  "proposedTalks": []
+}

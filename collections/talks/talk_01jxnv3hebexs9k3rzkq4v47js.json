@@ -1,0 +1,7 @@
+{
+  "id": "talk_01jxnv3hebexs9k3rzkq4v47js",
+  "title": "Migrating 600k+ Lines of Code from Flow to TypeScript",
+  "description": "GitKraken Desktop is a large Electron/React project dating back to 2014. We picked Flow as our first type system for JS by around 2017 and for reasons that we will dig deeper into in this talk, we will see why we switched to TypeScript and some of the challenges we faced along with that migration.",
+  "outline": "- Intro",
+  "idealDurationMinutes": 30
+}

@@ -9,5 +9,10 @@
   "cfpStartDate": "01/01/2025",
   "cfpEndDate": "03/10/2025",
   "cfpUrl": "https://renderatl.com/call-for-speakers",
-  "proposedTalks": []
+  "proposedTalks": [
+    {
+      "id": "talk_01jxk9azvceh09maf56tthjtpp",
+      "status": "pending"
+    }
+  ]
 }

@@ -1,4 +1,5 @@
 {
+  "id": "conference_01jxe6cs2ffq8vtqb5f5fh0q2d",
   "name": "Commit Your Code",
   "url": "https://www.commityourcode.com/",
   "startDate": "10/25/2025",
@@ -8,6 +9,10 @@
   "cfpStartDate": "11/10/2024",
   "cfpEndDate": "03/10/2025",
   "cfpUrl": "https://commityourcode.com/submit",
-  "proposedTalks": [],
-  "id": "conference_01jxe6cs2ffq8vtqb5f5fh0q2d"
+  "proposedTalks": [
+    {
+      "id": "talk_01jxk9azvceh09maf56tthjtpp",
+      "status": "pending"
+    }
+  ]
 }

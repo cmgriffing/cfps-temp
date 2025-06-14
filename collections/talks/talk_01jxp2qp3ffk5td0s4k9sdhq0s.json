@@ -1,0 +1,7 @@
+{
+  "id": "talk_01jxp2qp3ffk5td0s4k9sdhq0s",
+  "title": "Building GIFs of your Diffs",
+  "description": "SolidJS put on a really cool hackathon. I decided to build something I always wanted, a GIF generator for code diffs so that I could share them on social media. I ended up using Shiki Magic Move, SolidJS/SolidStart, and even FFMPEG (via WASM).\n\nIn this talk, I hope to make SolidJS approachable from a React dev's perspective. I will also show all the bottlenecks and relevant code snippets from what I built.\n\nThat includes:\n- Submitting a PR to shiki-magic-move for SolidJS support (and the open source contributors that helped me)\n- Using Shiki and shiki-magic-move to diff code\n- Emulating css animations into a canvas\n- Combining canvas frames into a GIF\n- Fine tuning the UI and experience\n- Experimenting with FFMPEG in the browser via WASM",
+  "outline": "",
+  "idealDurationMinutes": 15
+}

@@ -1,0 +1,7 @@
+{
+  "id": "talk_01k0fsnd93eh7a5nn88d60npbb",
+  "title": "The Different Hats We Wear During CodeReview",
+  "description": "When doing Code Review, we all tend to wear specific but different hats. Are you the person that pulls it down and verifies it works? Do you pull it down and make sure it solves the Issue/Ticket? Maybe you are the code readability inspector. Whatever you choose, it is probably important and understanding how we can complement each other during the code review process can open up a lot of value on your teams and at your organization.",
+  "outline": "",
+  "idealDurationMinutes": 15
+}
